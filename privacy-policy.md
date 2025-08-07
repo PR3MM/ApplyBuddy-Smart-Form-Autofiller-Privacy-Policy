@@ -17,7 +17,6 @@
 
 - To autofill forms based on your saved data
 - To improve field detection accuracy
-- To provide cross-device sync (if enabled)
 
 ## Data Sharing
 
